@@ -31,6 +31,7 @@ symbols = [
     "NQ=F",
     "RTY=F",
     "GC=F",
+    "DX-Y.NYB",
     "BTCUSD=X",
     "ETHUSD=X",
 ]
